@@ -6,7 +6,7 @@ state and is being actively
 developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![](https://img.shields.io/github/last-commit/befriendabacterium/rayyanR.svg)](https://github.com/befriendabacterium/rayyanR/commits/main)
 
-R ‘package’ to process Rayyan outputs
+R ‘package’ to process Rayyan outputs after annotation online
 
 ### Overview and installation
 
